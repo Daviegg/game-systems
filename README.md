@@ -20,7 +20,8 @@ Sistema de minigame onde o jogador entra em uma arena por tempo limitado e colet
 - Ranking de jogadores
 
 **Mídia:**
-- Vídeo: (coloca link aqui)
+- Vídeo: **Gameplay do minigame:**  
+https://youtube.com/https://youtu.be/D81L3i7eCV4
 - Imagens: (coloca aqui ou abaixo)
 
 ---
