@@ -21,7 +21,7 @@ Sistema de minigame onde o jogador entra em uma arena por tempo limitado e colet
 
 **Mídia:**
 - Vídeo: **Gameplay do minigame:**  
-https://youtube.com/https://youtu.be/D81L3i7eCV4
+https://youtu.be/D81L3i7eCV4
 - Imagens: (coloca aqui ou abaixo)
 
 ---
