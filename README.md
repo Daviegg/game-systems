@@ -50,6 +50,8 @@ Sistema de captura e gerenciamento de rigs feito no Roblox Studio.
   Os rigs spawnam em lugares aleatórios podendo ter raridades.
   Para pegá-los é preciso de um lasso. A captura pode funcionar ou não.
 
+Todas as ideias vieram de Tam4z(Discord)
+  
 **Mídia**
 -Vídeo: **Gameplay do sistema**
 https://youtu.be/TY1ImPangQM
