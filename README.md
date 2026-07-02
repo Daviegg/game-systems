@@ -1,10 +1,10 @@
-# Roblox Portfolio
+# Roblox Script Portfolio
 
-Desenvolvedor focado em sistemas de gameplay no Roblox (Luau).
+Portifólio focado na parte do Scripting do Roblox(Luau)
 
 ---
 
-## 🧩 Projeto principal
+## 🧩 Projetos
 
 ### Minigame de Moedas
 
@@ -31,12 +31,31 @@ https://youtu.be/hgfGWePx6Ok
 ## 🛠️ Skills
 
 - Luau (Roblox scripting)
-- UI / GUI systems
-- Game systems (currency, shop, leaderboard)
+- Game systems (currency, shop, ranking,)
 - Basic PvP systems
 
 ---
 
+# Rig System (Roblox)
+
+Sistema de captura e gerenciamento de rigs feito no Roblox Studio.
+
+## O que ele faz
+- Sistema de captura com chance
+- Controle server-side derig
+- Sistema de release/recaptura
+- Comunicação via RemoteEvents
+
+## Como funciona
+  Os rigs spawnam em lugares aleatórios podendo ter raridades.
+  Para pegá-los é preciso de um lasso. A captura pode funcionar ou não.
+
+**Mídia**
+-Vídeo: **Gameplay do sistema**
+https://youtu.be/TY1ImPangQM
+
+## Observações
+Sistema ainda em ajuste fino de balanceamento de chance e performance.
 ## 📌 Sobre
 
-Projetos feitos para aprendizado e portfólio.
+Projetos feitos para trabalho e portfólio.
